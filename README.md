@@ -1,0 +1,1 @@
+# a repository about javascript mode
